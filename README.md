@@ -2,6 +2,7 @@
 
 Facial Emotion Recognition (FER) merupakan sistem Computer Vision yang digunakan untuk mengidentifikasi emosi manusia berdasarkan ekspresi wajah. Proyek ini menggunakan Convolutional Neural Network (CNN) yang telah dioptimasi dengan Batch Normalization, Dropout, Data Augmentation, dan Learning Rate Scheduling untuk meningkatkan performa klasifikasi emosi.
 
+Dataset : https://www.kaggle.com/datasets/msambare/fer2013
 ## Features
 
 - Klasifikasi ekspresi wajah menggunakan CNN
